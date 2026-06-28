@@ -1,4 +1,4 @@
-name: self_learn13
+name: self_learn12
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -34,13 +34,12 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
-  mobx: ^2.6.0
-  flutter_mobx: ^2.3.0
-  build_runner: ^2.15.0
-  mobx_codegen: ^2.7.7
   get: ^4.7.3
+  get_x: ^5.0.0
   shared_preferences: ^2.5.5
-  http: ^1.6.0
+  riverpod: ^3.3.2
+  flutter_riverpod: ^3.3.2
+  sp_util: ^2.0.3
 
 dev_dependencies:
   flutter_test:
